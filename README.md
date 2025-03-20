@@ -16,7 +16,7 @@ This is a backend journal application built using Java and Spring Boot. It provi
 
 6. Integration With Git
 
-7. Containarization of the application
+7. Containarization of the application.
 
 **Technogogies used**
 
